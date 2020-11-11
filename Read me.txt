@@ -1,0 +1,39 @@
+Application Name:NewsHunter
+
+App Description:
+	NewsHunter is an app can be used for getting news about the country Ireland. This application contains more collection of news which are organised as catagory based on user interest.
+
+Framework:
+	Ionic 4-Angular framework is used for developing this application.
+
+Plugins:
+	Plugins implemented in the application are as follows.
+	
+	1.Status Bar-For displaying news catagory
+	2.InappBrowser-For reading article inside the application
+	3.SocialSharing-To share the news with others
+	4.SplashScreen-For displaying app name
+
+Note:Checked other plugins like Screen orientation in the app.
+	
+Build Platform:
+	NewsHunter is tested and build in the android platform. Build file is in .apk format. The tools used for testing app are as follows.
+	1.Android Studio
+	2.Android device
+
+Application Installation:
+	1.Download NewsHunter .apk file.
+	2.set phone settings to "allow unknown application" in the 	 settings.
+	3.Double click .apk file.
+	4.Click "Install"
+	5.Click "Install Anyway"
+	6.Click "Done".
+
+Application Design:
+	NewsHunter app runs in all android devices. Once the application is installed in the device, the user has to click application icon on the screen. The icon appears as blue colour with the  app name mentioned inside the square box. Once the app starts, the user can see splash screen with app name in the centre of the screen. When the app is opened, the first page will be the home page that displays Headline news. In the home screen, side bar is provided for the users in which catagory of news is displayed. In the catagory, the user can select any options of news they want based their interest. Each catagory display the news of its kind. In all the pages of application, user can read full article and also share that news to his friends or family members.
+	
+
+
+
+	
+	 
